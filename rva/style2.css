@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.sale img{
+    margin-left: 1px;
+    margin-top: 1px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.shop-now {
+    cursor: pointer;
+    width: 100px;
+}
